@@ -17,6 +17,18 @@
       {
         "command": "chrome-gpt-fire.sendOpenFiles",
         "title": "Send Open"
+      },
+      {
+        "command": "chrome-gpt-fire.sendOpenWithQuery",
+        "title": "Query Open"
+      },
+      {
+        "command": "chrome-gpt-fire.sendSelection",
+        "title": "Send Selected"
+      },
+      {
+        "command": "chrome-gpt-fire.sendSelectionWithQuery",
+        "title": "Query Selected"
       }
     ]
   },
