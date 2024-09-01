@@ -1,6 +1,6 @@
 # Chrome-GPT-Fire
 
-Chrome-GPT-Fire is a VS Code extension that sends the content of your open files in VS Code to a Chrome extension using a real-time channel with Supabase.
+Chrome-GPT-Fire is a VS Code extension that sends the content of your open files in VS Code to a [Chrome Extension](https://github.com/brightsidedeveloper/gpt-voice) using a real-time channel with Supabase.
 
 ## Features
 
@@ -26,17 +26,4 @@ Chrome-GPT-Fire is a VS Code extension that sends the content of your open files
 
 ## Development
 
-### Prerequisites
-
-- Node.js
-- VS Code
-- Supabase Account
-
-### Building the Extension
-
-1. Clone the repository and navigate to the project directory:
-
-   ```sh
-   git clone <repository-url>
-   cd chrome-gpt-fire
-   ```
+Read the code and figure it out 🙃
